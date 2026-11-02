@@ -1,0 +1,26 @@
+# ninja log v5
+1	23	8153153005918048	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Application/EWARM/startup_stm32f429xx.o	967a8283fd81b665
+285	509	8153153010604580	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	1a2ff62aa66d59e1
+5	226	8153153007792669	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Application/User/Core/stm32f4xx_hal_msp.o	d23e95461819bffb
+9	274	8153153008261315	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Application/User/Core/main.o	2f29176d41804649
+12	396	8153153009511046	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	2eb11a1d5ec58a4a
+236	461	8153153010292169	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	dc621d20de9d9a00
+15	301	8153153008573763	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Application/User/Core/stm32f4xx_it.o	2ce8844bd3898f97
+27	332	8153153008886182	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/CMSIS/system_stm32f4xx.o	2f66c5ab5714da40
+408	638	8153153011854341	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	2bc4b090ae2ba07
+344	609	8153153011541899	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	8751d4c11a2c3405
+621	859	8153153014041389	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	5ab845cade38f4f7
+18	366	8153153009198609	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	f910e302f825a8c8
+313	487	8153153010448381	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	9f4ec9e6429ce9e2
+473	732	8153153012947863	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	b4b39f182fc8fdfa
+377	588	8153153011541899	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	51bd018b00f378bf
+520	747	8153153012947863	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	d8e7fab34e0067e6
+829	1011	8153153015580080	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	89dac31c1fffad29
+743	991	8153153015423882	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	70df4e6417aa2495
+650	834	8153153013885180	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	8374f59fde74e2c
+600	870	8153153014041389	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	89a9f34a6233bb5e
+845	1034	8153153015892525	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_fmc.o	74d62bdae2740e1e
+758	979	8153153015423882	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_sdram.o	3ab4c9f9ce036520
+1044	1096	8153153016673597	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Exe/stm32f429IGT6_testingboards.out	fd82242c2f224a5f
+1130	1137	8153153017142460	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Exe/stm32f429IGT6_testingboards.hex	edba3fd404e5060f
+499	818	8153153013728943	D:/workSPACE IAR System/stm32f429IGT6_testingboards/EWARM/stm32f429IGT6_testingboards/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_nand.o	ad260c8331fe3d98
